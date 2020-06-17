@@ -131,7 +131,7 @@
 		            <td id="createuser" align = "center"><s:property value = "createuser" /></td>
 		            <td id="createdt" align = "center"><s:property value = "createdt" /></td>
 		            <td id="modiuser" align = "center"><s:property value = "modiuser" /></td>
-		            <td id="modidt" align = "center"><s:property value = "modidt2" /></td>
+		            <td id="modidt" align = "center"><s:property value = "modidt" /></td>
 		      </tr>
 			</s:iterator>
 		</table>
