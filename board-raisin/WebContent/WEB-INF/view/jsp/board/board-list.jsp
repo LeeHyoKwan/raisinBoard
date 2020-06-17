@@ -106,7 +106,7 @@
 <main id="container"  style="width: 1051px; margin:0 auto;">
 	<section>
 	<h2 style="color: #3c4790; font-size: 24px; font-family: 'Nanum Gothic', sans-serif; letter-spacing: -1px; margin-left: 20px; margin-top: 15px; font-weight: bolder;">
-		<a style="text-decoration: none; color: #3c4790;" href="../board/index">이효관의 게시판 만들기
+		<a style="text-decoration: none; color: #3c4790;" href="../board/index">이효관의 게시판  만들기
 		</a>
 	</h2>
 	<hr align="left" style="background-color: #3c4790; height:1px; width: 1051px">
