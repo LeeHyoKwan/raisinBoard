@@ -5,7 +5,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>ログイン画面</title>
+<title>ログイン 画面</title>
 <script src="../resources/js/jquery-3.5.1.min.js"></script>
 <link href="../resources/css/bootstrap.css" rel="stylesheet">
 </head>
