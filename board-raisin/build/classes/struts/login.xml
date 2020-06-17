@@ -6,7 +6,7 @@
 	<!-- ログイン画面定義 -->
 	<package name="login" extends="common" namespace="/login">
 
-		<!-- ログイン初期表示  -->
+		<!-- ログイン初期表示 -->
 		<action name="index" class="com.raisin.action.login.LoginAction" method="execute">
 			<result name="success">/WEB-INF/view/jsp/login/login.jsp</result>
 		</action>
